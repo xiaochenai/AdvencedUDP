@@ -1,0 +1,2 @@
+javac Sender_Receiver/Sender.java
+java Sender_Receiver/Sender
